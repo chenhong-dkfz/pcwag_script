@@ -1,0 +1,2 @@
+bsub -W 00:05 -R "rusage[mem=1G]" -o /omics/groups/OE0436/data/chen/home/log/  sh /omics/groups/OE0436/data/chen/home/single_gene_tumorprint/single_gene_analysis.sh
+

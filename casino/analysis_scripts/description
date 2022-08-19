@@ -1,0 +1,5 @@
+launcher_randomparser.sh 13.07.16 launch random original file to original file 
+randombed2origalinput.py 13.07.16 core for launcher_randomparser
+launcher 13.07.16 random snv info to matrix
+vcf2bed_ran 13.07.16 core of launcher
+matrix_convert 13.07.16 core of launcher
